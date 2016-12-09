@@ -1,0 +1,2 @@
+data percobaan
+dalam satu folder sekarang ada 2 files percobaan dan README
